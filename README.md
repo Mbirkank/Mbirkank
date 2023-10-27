@@ -1,42 +1,21 @@
-### Welcome to my Github account :octocat:
- My name is Birkan Karaer. I'm a software developer from Turkey. You can contact me on my social media accounts below for more detailed information about me or if you have a question about my codes.
+<h1 align="center">Hi 👋, I'm Birkan</h1>
+<h3 align="center">A passionate software developer from Turkey</h3>
 
-<a href="https://linkedin.com/in/mustafabirkankaraer" target="_blank"><img align="left" width="37px" height="36px" src="https://github.com/birkankaraer/birkankaraer/blob/main/icons/linkedin-logo.png" /> </a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=karaermustafabirkan@gmail.com" target="_blank"><img align="left" width="30px" height="32px" src="https://github.com/melihkaratekin/birkankaraer/blob/main/icons/gmail-logo.png" /> </a>
-<a href="https://medium.com/@mustafabirkankaraer" target="_blank"><img align="left" width="30px" height="32px" src="https://github.com/birkankaraer/birkankaraer/blob/main/icons/medium-logo.png" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=birkankaraer&label=Profile%20views&color=0e75b6&style=flat" alt="birkankaraer" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=birkankaraer" alt="birkankaraer" /></a> </p>
 
-<br />
-<br />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mustafabirkankaraer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafabirkankaraer" height="30" width="40" /></a>
+<a href="https://medium.com/@birkankaraer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@birkankaraer" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-### Languages and Tools:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=birkankaraer&show_icons=true&locale=en&layout=compact" alt="birkankaraer" /></p>
 
-<img align="left" width="32px" height="32px" src="https://github.com/birkankaraer/birkankaraer/blob/main/icons/c-sharp-logo.png" />
-<img align="left" width="32px" height="32px" src="https://github.com/birkankaraer/birkankaraer/blob/main/icons/net-core-logo.png" />
-<img align="left" width="28px" height="32px" src="https://github.com/birkankaraer/birkankaraer/blob/main/icons/java-logo.png" />
-<img align="left" width="28px" height="32px" src="https://github.com/birkankaraer/birkankaraer/blob/main/icons/python-logo.png" />
-<img align="left" width="28px" height="32px" src="https://github.com/birkankaraer/birkankaraer/blob/main/icons/php-logo.png" />
-<img align="left" width="28px" height="32px" src="https://github.com/birkankaraer/birkankaraer/blob/main/icons/angular-logo.png" />
-<img align="left" width="28px" height="32px" src="https://github.com/birkankaraer/birkankaraer/blob/main/icons/node-js-logo.png" />
-<img align="left" width="28px" height="32px" src="https://github.com/birkankaraer/birkankaraer/blob/main/icons/js-logo.png" />
-<img align="left" width="28px" height="32px" src="https://github.com/birkankaraer/birkankaraer/blob/main/icons/html-logo.png" />
-<img align="left" width="28px" height="32px" src="https://github.com/birkankaraer/birkankaraer/blob/main/icons/css-logo.png" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=birkankaraer&show_icons=true&locale=en" alt="birkankaraer" /></p>
 
-<br />
-<br />
-
-### Softwares:
-
-<img align="left" width="28px" height="32px" src="https://github.com/birkankaraer/birkankaraer/blob/main/icons/git-logo.png" />
-<img align="left" width="28px" height="32px" src="https://github.com/birkankaraer/birkankaraer/blob/main/icons/vs-logo.png" />
-<img align="left" width="28px" height="32px" src="https://github.com/birkankaraer/birkankaraer/blob/main/icons/vs-code-logo.png" />
-<img align="left" width="28px" height="32px" src="https://github.com/birkankaraer/birkankaraer/blob/main/icons/pycharm-logo.png" />
-<img align="left" width="28px" height="32px" src="https://github.com/birkankaraer/birkankaraer/blob/main/icons/eclipse-logo.png" />
-
-
-<br />
-<br />
-<br />
-
-[![Aakarsh's github stats](https://github-readme-stats.vercel.app/api?username=birkankaraer&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=birkankaraer&" alt="birkankaraer" /></p>
