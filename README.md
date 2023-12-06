@@ -19,7 +19,5 @@ Hi <a href="https://www.linkedin.com/in/mustafabirkankaraer/"><img src="https://
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=birkankaraer&show_icons=true&locale=en" alt="birkankaraer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=birkankaraer&" alt="birkankaraer" /></p>
----
-[![](https://visitcount.itsvg.in/api?id=birkankaraer&icon=0&color=10)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+=======================
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=birkankaraer&label=Profile%20views&color=0e75b6&style=flat" alt="birkankaraer" /> </p>
