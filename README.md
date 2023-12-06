@@ -3,8 +3,6 @@ Hi <a href="https://www.linkedin.com/in/mustafabirkankaraer/"><img src="https://
 
 ⚡ I'm a Software developer<br>🔭 I'm currently working at freelancer<br>🎓 I am a graduate of Bartın University Management Information Systems<br>🌱 I’m currently learning .Net Core
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=birkankaraer&label=Profile%20views&color=0e75b6&style=flat" alt="birkankaraer" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mustafabirkankaraer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafabirkankaraer" height="30" width="40" /></a>
@@ -19,5 +17,5 @@ Hi <a href="https://www.linkedin.com/in/mustafabirkankaraer/"><img src="https://
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=birkankaraer&show_icons=true&locale=en" alt="birkankaraer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=birkankaraer&" alt="birkankaraer" /></p>
-=======================
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=birkankaraer&label=Profile%20views&color=0e75b6&style=flat" alt="birkankaraer" /> </p>
