@@ -1,7 +1,7 @@
 Hi <a href="https://www.linkedin.com/in/mustafabirkankaraer/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></a> My name is [Birkan](https://www.linkedin.com/in/mustafabirkankaraer/)
 =======================
 
-⚡ I'm a Software developer<br>🔭 I'm currently working at freelancer<br>🎓 I'm currently Management Information System at Bartın University<br>🌱 I’m currently learning .Net Core
+⚡ I'm a Software developer<br>🔭 I'm currently working at freelancer<br>🎓 I am a graduate of Bartın University Management Information Systems<br>🌱 I’m currently learning .Net Core
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=birkankaraer&label=Profile%20views&color=0e75b6&style=flat" alt="birkankaraer" /> </p>
 
