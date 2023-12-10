@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ I'm a Software developer<br>🔭 I'm currently working at projects<br>🎓 I am a graduate of Bartın University Management Information Systems<br>🌱 I’m currently learning .Net 
+⚡ I'm a Software developer<br>🔭 I'm currently working at projects<br>🎓 I am a graduate of Bartın University Management Information Systems<br>🌱 I’m currently learning .Net Framework
 
 
 ## 🌐 Socials:
