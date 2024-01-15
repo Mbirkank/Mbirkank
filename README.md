@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ I'm a Software developer<br>🔭 I'm currently working at self-improvement<br>🎓 I'm a graduate of Bartın University Management Information Systems<br>🌱 I’m currently learning ASP.NET Core MVC
+⚡ I'm a Software developer<br>🔭 I'm currently working at self-improvement<br>🎓 I'm a graduate of Bartın University Management Information Systems<br>🌱 I’m currently learning backend technologies 
 
 
 ## 🌐 Socials:
