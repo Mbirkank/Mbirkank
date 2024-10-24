@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ I'm a Software developer<br>🔭 I'm currently looking for a job<br>🎓 I'm a graduate of Bartın University Management Information Systems<br>🌱 I’m currently learning Python Django. 
+⚡ I'm a Software developer<br>🔭 I'm currently looking for a job<br>🎓 I'm a graduate of Bartın University Management Information Systems<br>🌱 I’m currently learning .NET Technologies. 
 
 
 ## 🌐 Socials:
